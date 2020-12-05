@@ -3,7 +3,7 @@
 <center>
   <img src="https://github.com/wingsico/vue3-dashboard/blob/main/docs/assets/oka-logo.png?raw=true" alt="oka" height="200" />
 
-  <center><a href="https://github.com/wingsico/vue3-dashboard/tree/main/README.md" alt="English">English</a> | 中文</center>
+  <p style="text-align: center"><a href="https://github.com/wingsico/vue3-dashboard/tree/main/README.md" alt="English">English</a> | 中文</p>
 </center>
 
 我给这个项目取的名字是 **`Oka`**。
