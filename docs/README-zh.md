@@ -1,6 +1,6 @@
 # Vue3-dashboard (Oka)
 
-![Oka](https://github.com/wingsico/vue3-dashboard/docs/assets/oka-logo.png)
+![Oka](https://github.com/wingsico/vue3-dashboard/blob/main/docs/assets/oka-logo.png?raw=true)
 
 我给这个项目取的名字是 **`Oka`**。
 
