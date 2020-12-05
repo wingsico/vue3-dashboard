@@ -1,12 +1,9 @@
 # Vue3-dashboard (Oka)
 
 <center>
-<img src="https://github.com/wingsico/vue3-dashboard/blob/main/docs/assets/oka-logo.png?raw=true" alt="oka" height="200" />
+  <img src="https://github.com/wingsico/vue3-dashboard/blob/main/docs/assets/oka-logo.png?raw=true" alt="oka" height="200" />
 
-<br />
-<br />
-
-English | [中文](https://github.com/wingsico/vue3-dashboard/tree/main/docs/README-zh.md) 
+  <p>English | <a href="https://github.com/wingsico/vue3-dashboard/tree/main/docs/README-zh.md" alt="中文">中文</a>
 </center>
 
 I named this project **`Oka`**.
