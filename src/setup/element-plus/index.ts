@@ -179,9 +179,10 @@ const components = [
   ElUpload,
 ]
 
-export const createElementComponents = (
+export const setupElement = (
+  app: App,
   options: Partial<ElementInstallOptions>
-) => (app: App) => {
+) => {
   // global register components 
   components.forEach(component => {
     app.component(component.name, component)
