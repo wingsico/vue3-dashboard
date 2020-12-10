@@ -13,9 +13,7 @@
   },
   "devDependencies": {
     "@vue/compiler-sfc": "^3.0.2",
-    "babel-plugin-component": "^1.1.1",
     "less": "^3.12.2",
-    "vite": "^1.0.0-rc.8",
-    "vite-babel-plugin": "^0.0.2"
+    "vite": "^1.0.0-rc.8"
   }
 }
